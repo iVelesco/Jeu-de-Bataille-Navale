@@ -2,10 +2,10 @@
 Jeu créé à la fin du semestre, dans le cadre du programme universitaire.
 
 En équipe avec : 
-  Anne-Laure Bertrand
-  Nicolas Aros
-  Guillaume Piolat
-  Maxime Sage
+  Anne-Laure Bertrand,
+  Nicolas Aros,
+  Guillaume Piolat,
+  Maxime Sage,
   Velesco Ion
  
  **Pour démarrer le jeu il faut** 
